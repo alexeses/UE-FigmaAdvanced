@@ -1,7 +1,7 @@
 [Tutorial Figma Advanced](https://developer.android.com/jetpack/compose/tooling/relay/advanced-tutorial?hl=es-419), paso a paso hasta finalizar todos los pasos.
 
-- Manejo de variantes de diseño
-- Parámetros de contenido
+- Manejo de variantes de diseño.
+- Parámetros de contenido.
 - Controladores e interacción con los diseños.
 
 A continuación adjuntaré pruebas del proceso y [vídeo del resultado final](https://user-images.githubusercontent.com/46347629/216959759-2481ae03-f784-4aa8-b395-9641028c7952.webm) para facilitar la corección de esta.
